@@ -1,5 +1,5 @@
 lab4(a): 
-The Encoding Identifiers are \n
+The Encoding Identifiers are
 (1) double average(double*, double&): _Z7averagePdRd 
 (2) int average(int, float): _Z7averageif 
 
